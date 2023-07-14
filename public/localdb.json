@@ -1,0 +1,27 @@
+[
+    {
+      "index":1,
+      "name": "Facebook Marketing",
+      "details": "Facebook Marketing: Reach a large audience, create engaging posts, run targeted ad campaigns, and build a strong presence on Facebook to promote your business.",
+      "img": "https://notificationx.com/wp-content/uploads/2022/09/Facebook-As-A-Marketing-Platform-Advantages-Disadvantages_1280_720.jpg"
+    },
+    {
+      "index":2,
+      "name": "Instagram Marketing",
+      "details": "Instagram Marketing: Showcase your products or services with visually appealing content, use popular hashtags, engage with your audience, and leverage Instagram's features such as Stories and IGTV.",
+      "img" : "https://images.squarespace-cdn.com/content/v1/5c4620c075f9ee29faa8870c/1579871952633-XXF1O8MUJ6NHMA0396U6/Instagram+Marketing.jpg?format=1000w"
+    },
+    {
+       "index":3,
+      "name": "Twitter Marketing",
+      "details": "Twitter Marketing: Connect with your target audience through concise messages, share industry updates and news, participate in trending conversations, and use Twitter ads for increased reach and engagement.",
+      "img" : "https://blog.fanpagekarma.com/wp-content/uploads/2020/11/Top-11-Tips-Twitter-Marketing.png"
+    },
+    {
+      "index":4,
+      "name": "LinkedIn Marketing",
+      "details": "LinkedIn Marketing: Build a professional network, share industry insights and thought leadership content, engage with professionals and businesses in your industry, and utilize LinkedIn ads to target specific demographics.",
+      "img" : "https://www.amritsardigitalacademy.in/blog/wp-content/uploads/2020/08/linkedin-for-business-marketing.png"
+    }
+  ]
+  
