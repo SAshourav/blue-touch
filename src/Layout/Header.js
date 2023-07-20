@@ -4,9 +4,9 @@ import logo from '../Images/logo.png'
 
 const Header = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 py-5">
             <div className="flex-1">
-                <Link to="/" className="btn btn-ghost normal-case text-xl"><img className='w-36' src={logo} alt='DW Matrix'/> </Link>
+                <Link to="/" className="btn btn-ghost normal-case"><img className='w-36' src={logo} alt='DW Matrix'/> </Link>
             </div>
             <div className="flex-none">
                 <ul className="menu menu-horizontal px-1">

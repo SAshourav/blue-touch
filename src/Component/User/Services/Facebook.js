@@ -6,9 +6,13 @@ import FacebookP from './Facebook Package/FacebookP';
 const Facebook = () => {
   return (
     <div className='mt-10'>
-      <h1 className='text-3xl font-mono font-bold'>Facebook & Instagram Marketing and Ads Campaign</h1>
+      <h1 className='text-3xl font-mono font-bold text-blue-600'>Facebook & Instagram Marketing and Ads Campaign</h1>
       <div className='flex justify-center mb-10 mt-5'>
-        <img className='w-3/4 md:w-auto' src={banner} alt='facebook banner' />
+        <img
+            className='drop-shadow-lg w-3/4 md:w-auto transition-transform transform hover:scale-105'
+            src={banner}
+            alt='Instagram banner'
+          />
       </div>
       <FacebookAdArticle></FacebookAdArticle>
       <FacebookP></FacebookP>

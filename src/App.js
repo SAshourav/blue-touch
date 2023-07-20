@@ -8,7 +8,7 @@ import Home from './Component/User/Home/Home';
 import About from './Component/User/About/About';
 import Facebook from './Component/User/Services/Facebook';
 import Instagram from './Component/User/Services/Instagram/Instagram';
-import Linkedin from './Component/User/Services/Linkedin';
+import Linkedin from './Component/User/Services/LinkedIn/Linkedin';
 import AMain from './Layout/AMain'
 import AdminHome from './Component/Admin/AdminHome';
 import Ongoing from './Component/Admin/Pages/Ongoing/Ongoing';

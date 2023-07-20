@@ -6,7 +6,7 @@ import banner from '../../../../Images/InstagramBanner.png';
 const Instagram = () => {
   return (
     <div className='mt-10'>
-      <h1 className='text-3xl font-mono font-bold'>Instagram Marketing</h1>
+      <h1 className='text-3xl font-mono font-bold text-orange-600'>Instagram Marketing</h1>
       <div className='flex justify-center mb-10 mt-5'>
         <img
           className='drop-shadow-lg w-3/4 md:w-auto transition-transform transform hover:scale-105'
